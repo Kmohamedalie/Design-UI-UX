@@ -1,2 +1,2 @@
-# Design-principles
+# Design principles
 🎨 🖌️
