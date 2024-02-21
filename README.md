@@ -6,5 +6,6 @@ Deployed webApp: [Lisbon Chair Shop](https://chair-shop-lisbon.netlify.app/)
 
 Demo:
 
-https://github.com/Kmohamedalie/Lisbon-Chair-Shop/assets/63104472/f3172757-cc66-4d21-9494-c67e93ac2f89
+
+https://github.com/Kmohamedalie/Design-user-interface-experience/assets/63104472/ebf6d888-7896-4888-bfe8-4632e46aaf44
 
